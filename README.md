@@ -40,6 +40,7 @@ bash general.sh
 - Whatsapp
 - Zenmap
 
+## Contributing
 
 Although I have checked the script and making it updated there can be issues still if you found out any please make a pull request and I will merge it :) 
 
