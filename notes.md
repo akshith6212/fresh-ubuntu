@@ -1,0 +1,3 @@
+## common mistakes 
+- **&** in wget can lead to run the wget process in background and execute the next instructions which is not we want so enquote the links in which **&** is present. [source](https://superuser.com/questions/1011228/bash-script-not-waiting-for-wget-to-finish-download)
+- *apt* is for the terminal and gives beautiful output while *apt-get* and *apt-cache* are for scripts and give stable, parsable output. [source](https://askubuntu.com/questions/990823/apt-gives-unstable-cli-interface-warning)
