@@ -3,11 +3,16 @@
 script for installing all my required tools when a fresh installation is done.
 
 ## How to install 
+For installing the essential tools run 
 ```bash
 bash run.sh  
 ```
+For installing the general tools run
+```bash
+bash general.sh  
+```
 
-## Tools
+## Tools essential
 - Telegram
 - Joplin
 - Bitwarden
@@ -25,3 +30,12 @@ bash run.sh
 - VLC
 - Wireshark
 - Virtual box
+
+## Tools general
+- Eagle Mode
+- Figma-Linux
+- Filezilla
+- GIMP
+- Signal
+- Whatsapp
+- Zenmap
